@@ -1,0 +1,8 @@
+D:\c#\platform\bin\Debug\platform.exe.config
+D:\c#\platform\bin\Debug\platform.exe
+D:\c#\platform\bin\Debug\platform.pdb
+D:\c#\platform\obj\Debug\platform.csproj.AssemblyReference.cache
+D:\c#\platform\obj\Debug\platform.csproj.SuggestedBindingRedirects.cache
+D:\c#\platform\obj\Debug\platform.csproj.CoreCompileInputs.cache
+D:\c#\platform\obj\Debug\platform.exe
+D:\c#\platform\obj\Debug\platform.pdb

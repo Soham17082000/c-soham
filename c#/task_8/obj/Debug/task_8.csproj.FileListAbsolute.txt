@@ -1,0 +1,11 @@
+D:\c#\task_8\bin\Debug\task_8.exe.config
+D:\c#\task_8\bin\Debug\task_8.exe
+D:\c#\task_8\bin\Debug\task_8.pdb
+D:\c#\task_8\obj\Debug\task_8.csproj.AssemblyReference.cache
+D:\c#\task_8\obj\Debug\task_8.csproj.SuggestedBindingRedirects.cache
+D:\c#\task_8\obj\Debug\task_8.csproj.CoreCompileInputs.cache
+D:\c#\task_8\obj\Debug\task_8.exe
+D:\c#\task_8\obj\Debug\task_8.pdb
+D:\c#\task_8\bin\Debug\Newtonsoft.Json.dll
+D:\c#\task_8\bin\Debug\Newtonsoft.Json.xml
+D:\c#\task_8\obj\Debug\task_8.csproj.CopyComplete

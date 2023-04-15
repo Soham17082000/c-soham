@@ -1,0 +1,8 @@
+D:\c#\office management system\bin\Debug\office management system.exe.config
+D:\c#\office management system\bin\Debug\office management system.exe
+D:\c#\office management system\bin\Debug\office management system.pdb
+D:\c#\office management system\obj\Debug\office management system.csproj.AssemblyReference.cache
+D:\c#\office management system\obj\Debug\office management system.csproj.SuggestedBindingRedirects.cache
+D:\c#\office management system\obj\Debug\office management system.csproj.CoreCompileInputs.cache
+D:\c#\office management system\obj\Debug\office management system.exe
+D:\c#\office management system\obj\Debug\office management system.pdb

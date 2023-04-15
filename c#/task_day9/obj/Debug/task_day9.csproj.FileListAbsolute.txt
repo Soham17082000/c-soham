@@ -1,0 +1,8 @@
+D:\c#\task_day9\bin\Debug\task_day9.exe.config
+D:\c#\task_day9\bin\Debug\task_day9.exe
+D:\c#\task_day9\bin\Debug\task_day9.pdb
+D:\c#\task_day9\obj\Debug\task_day9.csproj.AssemblyReference.cache
+D:\c#\task_day9\obj\Debug\task_day9.csproj.SuggestedBindingRedirects.cache
+D:\c#\task_day9\obj\Debug\task_day9.csproj.CoreCompileInputs.cache
+D:\c#\task_day9\obj\Debug\task_day9.exe
+D:\c#\task_day9\obj\Debug\task_day9.pdb

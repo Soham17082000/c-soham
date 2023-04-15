@@ -1,0 +1,8 @@
+D:\c#\day7_tasks\bin\Debug\day7_tasks.exe.config
+D:\c#\day7_tasks\bin\Debug\day7_tasks.exe
+D:\c#\day7_tasks\bin\Debug\day7_tasks.pdb
+D:\c#\day7_tasks\obj\Debug\day7_tasks.csproj.AssemblyReference.cache
+D:\c#\day7_tasks\obj\Debug\day7_tasks.csproj.SuggestedBindingRedirects.cache
+D:\c#\day7_tasks\obj\Debug\day7_tasks.csproj.CoreCompileInputs.cache
+D:\c#\day7_tasks\obj\Debug\day7_tasks.exe
+D:\c#\day7_tasks\obj\Debug\day7_tasks.pdb

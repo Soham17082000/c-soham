@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "office management system", "office management system.csproj", "{C136E232-97D2-43A3-B8DB-3CBFEEC34DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C136E232-97D2-43A3-B8DB-3CBFEEC34DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C136E232-97D2-43A3-B8DB-3CBFEEC34DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C136E232-97D2-43A3-B8DB-3CBFEEC34DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C136E232-97D2-43A3-B8DB-3CBFEEC34DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250C993B-0DA5-4E70-B5C8-5B235A7C34EF}
+	EndGlobalSection
+EndGlobal

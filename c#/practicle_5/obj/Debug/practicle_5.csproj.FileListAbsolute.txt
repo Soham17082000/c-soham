@@ -1,0 +1,11 @@
+D:\c#\practicle_5\bin\Debug\practicle_5.exe.config
+D:\c#\practicle_5\bin\Debug\practicle_5.exe
+D:\c#\practicle_5\bin\Debug\practicle_5.pdb
+D:\c#\practicle_5\obj\Debug\practicle_5.csproj.AssemblyReference.cache
+D:\c#\practicle_5\obj\Debug\practicle_5.csproj.SuggestedBindingRedirects.cache
+D:\c#\practicle_5\obj\Debug\practicle_5.csproj.CoreCompileInputs.cache
+D:\c#\practicle_5\obj\Debug\practicle_5.exe
+D:\c#\practicle_5\obj\Debug\practicle_5.pdb
+D:\c#\practicle_5\bin\Debug\Newtonsoft.Json.dll
+D:\c#\practicle_5\bin\Debug\Newtonsoft.Json.xml
+D:\c#\practicle_5\obj\Debug\practicle_5.csproj.CopyComplete

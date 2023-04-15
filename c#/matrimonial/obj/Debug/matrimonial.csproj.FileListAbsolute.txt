@@ -1,0 +1,8 @@
+D:\c#\matrimonial\obj\Debug\matrimonial.csproj.AssemblyReference.cache
+D:\c#\matrimonial\obj\Debug\matrimonial.csproj.SuggestedBindingRedirects.cache
+D:\c#\matrimonial\obj\Debug\matrimonial.csproj.CoreCompileInputs.cache
+D:\c#\matrimonial\bin\Debug\matrimonial.exe.config
+D:\c#\matrimonial\bin\Debug\matrimonial.exe
+D:\c#\matrimonial\bin\Debug\matrimonial.pdb
+D:\c#\matrimonial\obj\Debug\matrimonial.exe
+D:\c#\matrimonial\obj\Debug\matrimonial.pdb

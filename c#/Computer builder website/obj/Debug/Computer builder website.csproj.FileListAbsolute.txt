@@ -1,0 +1,8 @@
+D:\c#\Computer builder website\bin\Debug\Computer builder website.exe.config
+D:\c#\Computer builder website\bin\Debug\Computer builder website.exe
+D:\c#\Computer builder website\bin\Debug\Computer builder website.pdb
+D:\c#\Computer builder website\obj\Debug\Computer builder website.csproj.AssemblyReference.cache
+D:\c#\Computer builder website\obj\Debug\Computer builder website.csproj.SuggestedBindingRedirects.cache
+D:\c#\Computer builder website\obj\Debug\Computer builder website.csproj.CoreCompileInputs.cache
+D:\c#\Computer builder website\obj\Debug\Computer builder website.exe
+D:\c#\Computer builder website\obj\Debug\Computer builder website.pdb

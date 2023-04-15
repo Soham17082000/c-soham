@@ -1,0 +1,8 @@
+D:\c#\cricket_oop\bin\Debug\cricket_oop.exe.config
+D:\c#\cricket_oop\bin\Debug\cricket_oop.exe
+D:\c#\cricket_oop\bin\Debug\cricket_oop.pdb
+D:\c#\cricket_oop\obj\Debug\cricket_oop.csproj.AssemblyReference.cache
+D:\c#\cricket_oop\obj\Debug\cricket_oop.csproj.SuggestedBindingRedirects.cache
+D:\c#\cricket_oop\obj\Debug\cricket_oop.csproj.CoreCompileInputs.cache
+D:\c#\cricket_oop\obj\Debug\cricket_oop.exe
+D:\c#\cricket_oop\obj\Debug\cricket_oop.pdb

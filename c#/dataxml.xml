@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <FirstName>e</FirstName>
+    <LastName>r</LastName>
+    <Gender>Male</Gender>
+    <EmailAddress>fr@gmail.com</EmailAddress>
+    <PhoneNumber>3445566789</PhoneNumber>
+    <Address>er</Address>
+  </Employee>
+</ArrayOfEmployee>
